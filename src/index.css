@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+.displayBox {
+    margin: auto;
+    width: 300px;
+    background-color: gold;
+    padding: 10px 10px 10px 10px;
+}
